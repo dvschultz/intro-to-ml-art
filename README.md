@@ -4,7 +4,7 @@
 ## Week 1
 ### Class documents:
 - [Week 1 Slides](https://docs.google.com/presentation/d/1VBKNMknSNVXQecBW8YRNm-aXAuPPJ7aTl3Sbo8lnNvw/edit?usp=sharing)
-- Week 1 Video
+- [Week 1 Video](https://drive.google.com/file/d/1NQmSYZSYdztSGkAADzpz8DBn33fgxHvB/view?usp=sharing)
 
 ### Links/Good things to check out:
 - [Putin Horse2Zebra](https://camo.githubusercontent.com/757b691307b52fe8a0806dde3a560dc068dbf5b3/68747470733a2f2f6a756e79616e7a2e6769746875622e696f2f4379636c6547414e2f696d616765732f6661696c7572655f707574696e2e6a7067)
