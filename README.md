@@ -7,7 +7,7 @@
 - [Week 1 Video](https://drive.google.com/file/d/1NQmSYZSYdztSGkAADzpz8DBn33fgxHvB/view?usp=sharing)
 
 ### Links/Good things to check out:
-- [Putin Horse2Zebra](https://camo.githubusercontent.com/757b691307b52fe8a0806dde3a560dc068dbf5b3/68747470733a2f2f6a756e79616e7a2e6769746875622e696f2f4379636c6547414e2f696d616765732f6661696c7572655f707574696e2e6a7067)
+- [Putin Horse2Zebra](https://camo.githubusercontent.com/757b691307b52fe8a0806dde3a560dc068dbf5b3/68747470733a2f2f6a756e79616e7a2e6769746875622e696f2f4379636c6547414e2f696d616765732f6661696c7572655f707574696e2e6a7067) (Pretty creepy looking FYI!)
 - Runway also has an official [Slack](https://runwayml.com/joinslack). This can be helpful for debugging technical issues or to see what others are making.
 
 ### Homework:
