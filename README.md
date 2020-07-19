@@ -27,7 +27,7 @@
 ## Week 2
 ### Class documents:
 - [Week 2 Slides](https://docs.google.com/presentation/d/1L7oweu81Gsr6XqH7nf3uULhQVKuT8SCQw8bt5Dei55w/edit?usp=sharing)
-- [Week 2 Video]()
+- [Week 2 Video](https://drive.google.com/file/d/1Z73-fVfj35-y-EiDCWGtFFo6PfUrfpsw/view?usp=sharing)
 
 ### Links/Good things to check out:
 
