@@ -30,5 +30,13 @@
 - [Week 2 Video](https://drive.google.com/file/d/1Z73-fVfj35-y-EiDCWGtFFo6PfUrfpsw/view?usp=sharing)
 
 ### Links/Good things to check out:
+- 
 
 ### Homework:
+- **Keep exploring models**
+  - We’ve covered a handful of models so far in class, but there are many more! Keep digging around. We’ve created a [playlist of model videos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn) to watch if you’re interested.
+- **Sign up for 1:1 sessions with [Derrick](https://calendly.com/derrick-schultz/1-on-1) or [Lia](https://calendly.com/lialialiacole/30min)**
+- **If you’re interested in training...** We won’t cover training in this 3-week course, but we do have videos from other classes that you can watch. Ask us questions!
+  - [Building Datasets](https://youtu.be/sEZ4Y_tVxm0?t=1848)
+  - [Training StyleGAN2 models in RunwayML](https://www.youtube.com/watch?v=RVVFX7kXZ2E&list=PLWuCzxqIpJs9zhdNV7E71aaXH0neU73UG)
+
