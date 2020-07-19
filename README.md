@@ -22,3 +22,13 @@
 - Think about a bigger project you want to make
   - Look at the Runway Slack and social projects for inspiration ([Runway YouTube](https://www.youtube.com/runwayml))
   - Look at some of the models and consider what inputs you have available to you and what you want as outputs
+
+
+## Week 2
+### Class documents:
+- [Week 2 Slides](https://docs.google.com/presentation/d/1L7oweu81Gsr6XqH7nf3uULhQVKuT8SCQw8bt5Dei55w/edit?usp=sharing)
+- [Week 2 Video]()
+
+### Links/Good things to check out:
+
+### Homework:
