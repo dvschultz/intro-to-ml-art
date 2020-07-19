@@ -30,7 +30,9 @@
 - [Week 2 Video](https://drive.google.com/file/d/1Z73-fVfj35-y-EiDCWGtFFo6PfUrfpsw/view?usp=sharing)
 
 ### Links/Good things to check out:
-- 
+- A [list of ML Art Colab notebooks](https://github.com/dvschultz/ml-art-colabs)
+- [A YouTube playlist of Colab demos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE)
+
 
 ### Homework:
 - **Keep exploring models**
