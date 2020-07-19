@@ -32,6 +32,7 @@
 ### Links/Good things to check out:
 - A [list of ML Art Colab notebooks](https://github.com/dvschultz/ml-art-colabs)
 - [A YouTube playlist of Colab demos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE)
+- [Neural-style-tf Colab Notebook](https://colab.research.google.com/github/dvschultz/artificial-images/blob/master/neural_style_tf.ipynb#scrollTo=zHPQH7Z8hscj)
 - [Esteban Salgado’s StyleGAN work](https://www.instagram.com/flatyaku/)
 - [Nye Warburton’s YouTube page](https://www.youtube.com/channel/UCNzVeM72UeRLBUksehOXXFQ)
 - Pix2Pix [training](https://www.youtube.com/watch?v=TVCZLb1qe_0) and [testing](https://www.youtube.com/watch?v=fXgodCC2O7o) videos on YouTube
