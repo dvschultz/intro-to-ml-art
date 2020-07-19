@@ -37,6 +37,7 @@
 - [Nye Warburton’s YouTube page](https://www.youtube.com/channel/UCNzVeM72UeRLBUksehOXXFQ)
 - Pix2Pix [training](https://www.youtube.com/watch?v=TVCZLb1qe_0) and [testing](https://www.youtube.com/watch?v=fXgodCC2O7o) videos on YouTube
 - [Lia’s upcoming webinar!](http://grayarea.staging.wpengine.com/workshop/ai-webinar/)
+- [In depth neural-style-tf discussion](https://www.youtube.com/watch?v=0lX-4Znoopk)
 
 
 ### Homework:
