@@ -36,7 +36,7 @@
 - [Esteban Salgado’s StyleGAN work](https://www.instagram.com/flatyaku/)
 - [Nye Warburton’s YouTube page](https://www.youtube.com/channel/UCNzVeM72UeRLBUksehOXXFQ)
 - Pix2Pix [training](https://www.youtube.com/watch?v=TVCZLb1qe_0) and [testing](https://www.youtube.com/watch?v=fXgodCC2O7o) videos on YouTube
-- [Lia’s upcoming webinar!](http://grayarea.staging.wpengine.com/workshop/ai-webinar/)
+- [Lia’s upcoming webinar!](https://grayarea.org/workshop/ai-webinar/)
 - [In depth neural-style-tf discussion](https://www.youtube.com/watch?v=0lX-4Znoopk)
 - [Downloading a StyleGAN model from Runway](https://www.youtube.com/watch?v=6XdToEb18cs)
 
