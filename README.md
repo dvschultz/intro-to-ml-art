@@ -49,3 +49,14 @@
   - [Building Datasets](https://youtu.be/sEZ4Y_tVxm0?t=1848)
   - [Training StyleGAN2 models in RunwayML](https://www.youtube.com/watch?v=RVVFX7kXZ2E&list=PLWuCzxqIpJs9zhdNV7E71aaXH0neU73UG)
 
+## Week 3
+### Class documents:
+- [Week 3 Slides](https://docs.google.com/presentation/d/1CvnGzrg8yWW0bhNCpWGGM44OSUw0yKSwqcT4d8wdgUI/edit?usp=sharing)
+- Week 3 Video
+
+### Links/Good things to check out:
+
+
+### Homework:
+- Fill out the [class survey](https://forms.gle/3Q3vwxt26ukssqd86)!
+- **Sign up for 1:1 sessions with [Derrick](https://calendly.com/derrick-schultz/1-on-1) or [Lia](https://calendly.com/lialialiacole/30min)**
