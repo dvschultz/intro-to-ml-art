@@ -52,9 +52,17 @@
 ## Week 3: Chaining, Plugins/Networks
 ### Class documents:
 - [Week 3 Slides](https://docs.google.com/presentation/d/1CvnGzrg8yWW0bhNCpWGGM44OSUw0yKSwqcT4d8wdgUI/edit?usp=sharing)
-- Week 3 Video
+- [Week 3 Video](https://drive.google.com/file/d/12dbonQ-bH0Uaa_koWyjCV_X6qBdXDL9r/view?usp=sharing)
 
 ### Links/Good things to check out:
+- [Building Datasets](https://youtu.be/sEZ4Y_tVxm0?t=1848)
+- [Training StyleGAN2 models in RunwayML](https://www.youtube.com/watch?v=RVVFX7kXZ2E&list=PLWuCzxqIpJs9zhdNV7E71aaXH0neU73UG)
+- [Splitting a video into frames](https://www.youtube.com/watch?v=ck11jOVYlIw)
+- [Jason Levine, a musician that uses AI in his work](https://twitter.com/xululululuuum)
+- [Jukebox](https://openai.com/blog/jukebox/), by OpenAI
+- [Google Magenta](https://magenta.tensorflow.org/get-started), and AI lab devoted to music generation ML
+- [Holly Herndon and Mat Dryhurst’s Interdependence](https://www.patreon.com/interdependence), a podcast that often discusses music and ML
+- [Downloading a StyleGAN model from Runway](https://www.youtube.com/watch?v=6XdToEb18cs)
 
 
 ### Homework:
