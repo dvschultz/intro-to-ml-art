@@ -1,7 +1,7 @@
 ## Intro to ML Art with RunwayML
 
 
-## Week 1
+## Week 1: ML Basics,Setup & Inspiration
 ### Class documents:
 - [Week 1 Slides](https://docs.google.com/presentation/d/1VBKNMknSNVXQecBW8YRNm-aXAuPPJ7aTl3Sbo8lnNvw/edit?usp=sharing)
 - [Week 1 Video](https://drive.google.com/file/d/1NQmSYZSYdztSGkAADzpz8DBn33fgxHvB/view?usp=sharing)
@@ -24,7 +24,7 @@
   - Look at some of the models and consider what inputs you have available to you and what you want as outputs
 
 
-## Week 2
+## Week 2: Inspiration, Special Input Types, Batch Exports
 ### Class documents:
 - [Week 2 Slides](https://docs.google.com/presentation/d/1L7oweu81Gsr6XqH7nf3uULhQVKuT8SCQw8bt5Dei55w/edit?usp=sharing)
 - [Week 2 Video](https://drive.google.com/file/d/1Z73-fVfj35-y-EiDCWGtFFo6PfUrfpsw/view?usp=sharing)
@@ -49,7 +49,7 @@
   - [Building Datasets](https://youtu.be/sEZ4Y_tVxm0?t=1848)
   - [Training StyleGAN2 models in RunwayML](https://www.youtube.com/watch?v=RVVFX7kXZ2E&list=PLWuCzxqIpJs9zhdNV7E71aaXH0neU73UG)
 
-## Week 3
+## Week 3: Chaining, Plugins/Networks
 ### Class documents:
 - [Week 3 Slides](https://docs.google.com/presentation/d/1CvnGzrg8yWW0bhNCpWGGM44OSUw0yKSwqcT4d8wdgUI/edit?usp=sharing)
 - Week 3 Video
