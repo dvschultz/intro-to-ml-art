@@ -58,5 +58,5 @@
 
 
 ### Homework:
-- Fill out the [class survey](https://forms.gle/3Q3vwxt26ukssqd86)!
+- **Fill out the [class survey](https://forms.gle/3Q3vwxt26ukssqd86)!**
 - **Sign up for 1:1 sessions with [Derrick](https://calendly.com/derrick-schultz/1-on-1) or [Lia](https://calendly.com/lialialiacole/30min)**
