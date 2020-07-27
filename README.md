@@ -53,6 +53,7 @@
 ### Class documents:
 - [Week 3 Slides](https://docs.google.com/presentation/d/1CvnGzrg8yWW0bhNCpWGGM44OSUw0yKSwqcT4d8wdgUI/edit?usp=sharing)
 - [Week 3 Video](https://drive.google.com/file/d/12dbonQ-bH0Uaa_koWyjCV_X6qBdXDL9r/view?usp=sharing)
+- [Week 3 Class notes](https://www.notion.so/Runway-Plugins-Chaining-a2fb0875be6c4bf98e7deb137d2f9727) taken by Lia
 
 ### Links/Good things to check out:
 - [Building Datasets](https://youtu.be/sEZ4Y_tVxm0?t=1848)
